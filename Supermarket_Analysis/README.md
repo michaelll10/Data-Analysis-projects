@@ -1,31 +1,31 @@
-# 🛒 Supermarket Sales Analysis (Excel + Pivot Tables)
+# 📦 Sales Orders & Product Analysis (Excel)
 
-This project analyzes supermarket sales data using **Microsoft Excel** with **pivot tables and charts**.
+This project analyzes sales order data using **Microsoft Excel** and **Pivot Tables**.
 
-## 📊 What the analysis includes:
+## 📊 Analysis Includes:
 
 - Total sales by product category
-- Sales by branch and customer type
-- Gross income by payment method
-- Monthly revenue trends
-- Customer ratings overview
+- Revenue by region or customer segment
+- Top 10 products by total revenue
+- Order volume by month or date
+- Gross profit and discount trends
 
 ## 📁 Files
 
-- `supermarket_analysis.xlsx`: contains all the pivot tables and charts.
+- `sales_analysis.xlsx`: Excel file containing raw data, pivot tables, and visual charts.
 
-## 🧰 Tools Used
+## 🛠 Tools Used
 
 - Microsoft Excel
 - Pivot Tables
-- Charts
+- Slicers & Charts
 
 ## ✅ Key Insights
 
-- The highest revenue came from Branch C.
-- Electronic accessories were the best-selling category.
-- Cash was the most used payment method.
-- Most customers gave ratings above 7.5.
+- Highest revenue came from Electronics and Office Supplies.
+- Q4 was the strongest quarter in terms of total sales.
+- Discounts did not always correlate with higher sales volume.
+- Region East had the highest number of orders.
 
 ---
 
