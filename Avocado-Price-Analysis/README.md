@@ -8,8 +8,6 @@ This project explores the **Avocado Price dataset** through univariate, bivariat
 
 - `avocado.csv` — Raw dataset
 - `avocado_analysis.ipynb` — Jupyter Notebook with all visualizations
-- (Optional) `dash_app.py` — Dash app version of selected visualizations
-
 ---
 
 ## 📊 Dataset Details
