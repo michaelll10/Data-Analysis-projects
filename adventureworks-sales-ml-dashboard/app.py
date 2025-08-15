@@ -7,10 +7,10 @@ import seaborn as sns
 import plotly.express as px
 
 df=pd.read_csv('adventureworks-sales-ml-dashboard/data.csv')
-df_cleaned= pd.read_csv('df_cleaned.csv')
-df_orders=pd.read_csv('df_orders.csv')
-X_train_encoded=pd.read_csv('train_cleaned_encoded.csv')
-X_test_encoded=pd.read_csv('test_cleaned_encoded.csv')
+df_cleaned= pd.read_csv('adventureworks-sales-ml-dashboard/df_cleaned.csv')
+df_orders=pd.read_csv('adventureworks-sales-ml-dashboard/df_orders.csv')
+X_train_encoded=pd.read_csv('adventureworks-sales-ml-dashboard/train_cleaned_encoded.csv')
+X_test_encoded=pd.read_csv('adventureworks-sales-ml-dashboard/test_cleaned_encoded.csv')
 
 
 
@@ -108,4 +108,5 @@ elif page == "Encoded Data":
 
     st.write("### Summary Statistics")
     st.dataframe(X_train_encoded.describe())
+
 
