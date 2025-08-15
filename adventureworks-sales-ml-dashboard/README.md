@@ -26,6 +26,3 @@ It includes a complete data pipeline — from SQL extraction to cleaning, featur
 - **category_encoders** – Binary encoding
 - **pyodbc** – Database connection
 
----
-
-## 📂 Project Structure
