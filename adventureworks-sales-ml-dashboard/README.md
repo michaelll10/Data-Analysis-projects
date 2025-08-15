@@ -25,3 +25,6 @@ It includes a complete data pipeline — from SQL extraction to cleaning, featur
 - **scikit-learn** – Preprocessing and encoding
 - **category_encoders** – Binary encoding
 - **pyodbc** – Database connection
+---
+**streamlit link:**
+https://internetsales.streamlit.app/
